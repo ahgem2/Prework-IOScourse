@@ -26,8 +26,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![RecordingofTIP](https://user-images.githubusercontent.com/70420648/185828914-4ad741a2-323b-4a38-be26-aa27f85804fb.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
